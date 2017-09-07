@@ -1,2 +1,3 @@
 I am learening git
 git is a free software
+i change the thing
